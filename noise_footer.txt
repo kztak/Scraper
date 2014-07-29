@@ -1,0 +1,11 @@
+﻿	</TABLE>
+	<div class="box"><FONT COLOR="red">※落札率（小数点第３位を四捨五入）</FONT></div>
+<A HREF='BuppinZuiList.asp?str=1' class='pageLink'>1</A><A HREF='BuppinZuiList.asp?str=2' class='pageLink'>2</A><A HREF='BuppinZuiList.asp?str=3' class='pageLink'>3</A><A HREF='BuppinZuiList.asp?str=4' class='pageLink'>4</A><A HREF='BuppinZuiList.asp?str=5' class='pageLink'>5</A><A HREF='BuppinZuiList.asp?str=6' class='pageLink'>6</A><A HREF='BuppinZuiList.asp?str=7' class='pageLink'>7</A><A HREF='BuppinZuiList.asp?str=8' class='pageLink'>8</A><A HREF='BuppinZuiList.asp?str=9' class='pageLink'>9</A><span class='pageSpan'>10</span><span class='pageSpan'>…</span><A HREF='BuppinZuiList.asp?str=11' class='pageLink'>後の10ページ</A>&nbsp;&nbsp;<span class='pageSpan'>…</span><A HREF='BuppinZuiList.asp?str=138' class='pageLink'>末尾</A><br />
+	<!--フッター-->
+		<div id="footerArea">&nbsp;</div>
+	<!--最小サイズ対策-->
+	<div style="width:1500px;"><img src="http://chotatsu.mlit.go.jp/image/sen.gif" /></div>
+
+</DIV>
+</BODY>
+</HTML>
